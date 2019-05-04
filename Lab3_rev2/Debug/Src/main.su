@@ -1,0 +1,11 @@
+main.c:456:6:Thread_LED	8	static
+main.c:592:6:Thread_GPIO_Trig	8	static
+main.c:478:6:Thread_UART	16	static
+main.c:514:6:Thread_GPIO	24	static
+main.c:566:6:Thread_Help	144	static
+main.c:542:6:Thread_ADC	16	static
+main.c:614:6:Thread_StartStats	304	static
+main.c:233:6:SystemClock_Config	96	static
+main.c:125:5:main	176	static
+main.c:673:6:HAL_TIM_PeriodElapsedCallback	0	static
+main.c:690:6:Error_Handler	0	static

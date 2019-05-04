@@ -1,0 +1,2 @@
+freertos.c:93:13:configureTimerForRunTimeStats	0	static
+freertos.c:100:22:getRunTimeCounterValue	0	static
